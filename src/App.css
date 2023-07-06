@@ -1,0 +1,61 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.ggg{
+  margin-top: 18px;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+
+
+}
+.gif{
+  width: 500px;
+  height: 500px;
+}
+.iii{
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+ 
+  
+}
+.jjjj{
+  display: flex;
+  justify-content: space-around;
+}
+.mmm{
+  border: 1px solid;
+}
+.mmm:hover{
+  color: green;
+  background-color: white;
+}
+.hhh{
+  background-color: red;
+  width: 1280px;
+
+  height: 100px;
+
+  cursor: pointer;
+  color: rgb(117, 70, 235);
+}
+
+img{
+  width: 300px;
+  height: 300px;
+  margin-left: 8px;
+}
+
+.isSelected {
+  background-color: white;
+  color: green;
+}
+
